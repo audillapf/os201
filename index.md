@@ -5,6 +5,8 @@ Welcome to my OS course github page! This page is made as a part of OS final exa
 
 ### Who am I? 
 
+<img src= "https://ibb.co/q1PMmF5" width="300">
+
 Hi, I'm Audilla Putri. I'm currently studying computer science in Faculty of Computer Science UI. I love reading novels and vanilla-mixed-mocca ice cream.
 
 ### Learn more about OS!
