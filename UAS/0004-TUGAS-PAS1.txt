@@ -1,5 +1,5 @@
 Script started on Mon Jun  8 20:50:57 2020
-audilla.putri@badak:~/UAS$ PS1="$ "
+]0;audilla.putri@badak: ~/UASaudilla.putri@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 audillapf
 $ echo $PSTAMP
@@ -7,7 +7,7 @@ TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum
 $ eval $PSTAMP
 200608-205126-c2ea-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
-200608-205152-b1a0-UAS/> echo -e $CEKSAYA
+200608-205152-b1a0-UAS/> echo e[K-e $CEKSAYA
 audillapf ZCZCSCRIPTSTART 200608-185635 audillapf 
  audillapf audillapf 200608-185657-88a2-UAS/ 200608-185657 SEQOK SUMOK 88a2d726 
  audillapf audillapf 200608-185703-88bb-UAS/ 200608-185703 SEQOK SUMOK 88bb8f80 
@@ -23,7 +23,7 @@ audillapf ZCZCSCRIPTSTART 200530-120529 ayilaadzkiya24
  audillapf ayilaadzkiya24 200530-120754-5519-ayila.adzkiya/ 200530-120754 SEQOK SUMOK 5519f747 
  audillapf ZCZCSCRIPTSTOP 200530-120809 SEQOK 
 
-200608-205215-9b31-UAS/> echo -e $CEKSEBELA2
+200608-205215-9b31-UAS/> echoe[K -e $CEKSEBELA2
 audillapf ZCZCSCRIPTSTART 200605-153539 azis14 
  audillapf azis14 200605-153610-e3a6-muhammad.azis81/ 200605-153610 SEQOK SUMOK e3a6c48e 
  audillapf azis14 200605-153619-b900-muhammad.azis81/ 200605-153619 SEQOK SUMOK b90028cb 
